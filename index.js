@@ -13,7 +13,7 @@ let carta= `<div class="card pt-4 d-flex flex-wrap" style="width: 18rem;">
 <div class="card-body">
 <h5 class="card-title4">Carro ${i}</h5>
 <p class="card-text4"> Producto ${i} </p>
-<a href="#" class="btn btn-primary">Ver más</a>
+<a href="producto.html" class="btn btn-primary">Ver más</a>
 </div></div>`;
 arraycards.push(carta);
 }
